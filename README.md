@@ -1,1 +1,1 @@
-# DSAwithpython
+I'm taking the **DSA with Python** course on NPTEL, learning recursion and backtracking ( backtracking when needed—like N-Queens). Covered Merge Sort, Quick Sort, euclidean gcd etc. Excited to keep going! 
